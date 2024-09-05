@@ -1,4 +1,4 @@
-const blessed = require("blessed")
+const blessed = require("bbblessed")
 const contrib = require("../")
 
 const screen = blessed.screen()

@@ -1,4 +1,4 @@
-var blessed = require('blessed')
+var blessed = require('bbblessed')
   , contrib = require('../')
   , screen = blessed.screen()
   , bar = contrib.bar(

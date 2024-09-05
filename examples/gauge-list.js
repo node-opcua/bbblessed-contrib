@@ -1,4 +1,4 @@
-var blessed = require('blessed')
+var blessed = require('bbblessed')
   , contrib = require('../')
   , screen = blessed.screen()
   , grid = new contrib.grid({rows: 2, cols: 2, hideBorder: true, screen: screen})
