@@ -22,7 +22,8 @@
         "colors": "^1.4.0",
         "eslint": "^9.9.1",
         "eslint-plugin-node": "^11.1.0",
-        "eslint-plugin-standard": "^5.0.0"
+        "eslint-plugin-standard": "^5.0.0",
+        "globals": "^15.9.0"
     },
     "dependencies": {
         "ansi-term": ">=0.0.2",
